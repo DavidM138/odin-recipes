@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe page to showcase basic HTML skills
+Simple recipe page to showcase basic HTML skills
